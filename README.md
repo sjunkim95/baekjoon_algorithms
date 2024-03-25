@@ -1,2 +1,2 @@
 # baekjoon_algorithms
-코딩 문제 연
+코딩 문제 연습
